@@ -1,8 +1,11 @@
-﻿using Lab_03.Models;
+﻿using Lab_03.Data;
+using Lab_03.Models;
 using Lab_03.Repository;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.CodeAnalysis.Elfie.Diagnostics;
+using Microsoft.EntityFrameworkCore;
 
 namespace Lab_03.Controllers
 {
@@ -11,21 +14,24 @@ namespace Lab_03.Controllers
     {
         private readonly IProductRepository _productRepository;
         private readonly ICategoryRepository _categoryRepository;
+        private readonly ApplicationDbContext _dbContext;
 
-        public ProductController(IProductRepository productRepository, ICategoryRepository categoryRepository)
+        public ProductController(IProductRepository productRepository, ICategoryRepository categoryRepository, ApplicationDbContext dbContext)
         {
             _productRepository = productRepository;
             _categoryRepository = categoryRepository;
+            _dbContext = dbContext; // Inject đối tượng DbContext vào controller
         }
-        //public IActionResult Products(int id)
-        //{
-        //    var productsInCategory = _productRepository.GetProductByCategoryAsync(id);
-        //    //var categories = _categoryRepository.GetAll();
 
-        //   // ViewData["Categories"] = categories; // Truyền danh sách danh mục sản phẩm vào ViewData
+        public IActionResult Products(int id)
+        {
+            var productsInCategory = _productRepository.GetProductByCategoryAsync(id);
+            //var categories = _categoryRepository.GetAll();
 
-        //    return View(productsInCategory);
-        //}
+           // ViewData["Categories"] = categories; // Truyền danh sách danh mục sản phẩm vào ViewData
+
+            return View(productsInCategory);
+        }
 
         // Hiển thị danh sách sản phẩm
         public async Task<IActionResult> Index()
@@ -80,6 +86,26 @@ namespace Lab_03.Controllers
 
             // Trả về view kết quả tìm kiếm và truyền dữ liệu tìm kiếm vào view
             return View("SearchResult", searchResults);
+        }
+        public IEnumerable<Product> GetProductsByCategoryId(int categoryId)
+        {
+            // Truy vấn cơ sở dữ liệu để lấy danh sách sản phẩm có CategoryId tương ứng
+            // Ví dụ: Sử dụng Entity Framework Core để thực hiện truy vấn dữ liệu từ cơ sở dữ liệu
+            return _dbContext.Products.Where(p => p.CategoryId == categoryId).ToList();
+        }
+        public async Task<IActionResult> FilterByCategory(int categoryId)
+        {
+            // Truy vấn cơ sở dữ liệu để lấy danh sách sản phẩm có CategoryId tương ứng
+            var products = _dbContext.Products.Where(p => p.CategoryId == categoryId).ToList();
+            foreach (var product in products)
+            {
+                if (product.CategoryId != null)
+                {
+                    product.Category = await _categoryRepository.GetByIdAsync(product.CategoryId);
+                }
+            }
+            // Trả về một PartialView chứa danh sách sản phẩm đã lọc
+            return View("_ProductList", products);
         }
     }
 }

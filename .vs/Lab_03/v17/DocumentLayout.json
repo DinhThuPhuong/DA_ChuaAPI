@@ -1,34 +1,86 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\H\u01B0\u01A1ng\\OneDrive\\CodeTH_Lap3Share\\THWEBChuaAPI\\THWEB\\",
+  "WorkspaceRootPath": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\h\u01B0\u01A1ng\\onedrive\\codeth_lap3share\\thwebchuaapi\\thweb\\lab_03\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\fpt shop\\source\\repos\\da_chuaapi\\lab_03\\views\\orderlist\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\views\\orderlist\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\fpt shop\\source\\repos\\da_chuaapi\\lab_03\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\fpt shop\\source\\repos\\da_chuaapi\\lab_03\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\fpt shop\\source\\repos\\da_chuaapi\\lab_03\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Migrations\\20240412094150_ExtendIdentityUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab_03\\Migrations\\20240412094150_ExtendIdentityUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\fpt shop\\source\\repos\\da_chuaapi\\lab_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\fpt shop\\source\\repos\\da_chuaapi\\lab_03\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\fpt shop\\source\\repos\\da_chuaapi\\lab_03\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\h\u01B0\u01A1ng\\onedrive\\codeth_lap3share\\thwebchuaapi\\thweb\\lab_03\\views\\product\\searchresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\fpt shop\\source\\repos\\da_chuaapi\\lab_03\\views\\shared\\_productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\views\\shared\\_productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\fpt shop\\source\\repos\\da_chuaapi\\lab_03\\models\\navbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\models\\navbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\fpt shop\\source\\repos\\da_chuaapi\\lab_03\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\fpt shop\\source\\repos\\da_chuaapi\\lab_03\\views\\product\\searchresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\views\\product\\searchresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\h\u01B0\u01A1ng\\onedrive\\codeth_lap3share\\thwebchuaapi\\thweb\\lab_03\\views\\product\\display1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\views\\product\\display1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\h\u01B0\u01A1ng\\onedrive\\codeth_lap3share\\thwebchuaapi\\thweb\\lab_03\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\fpt shop\\source\\repos\\da_chuaapi\\lab_03\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\h\u01B0\u01A1ng\\onedrive\\codeth_lap3share\\thwebchuaapi\\thweb\\lab_03\\repository\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\fpt shop\\source\\repos\\da_chuaapi\\lab_03\\views\\shared\\components\\navbar\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\views\\shared\\components\\navbar\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\fpt shop\\source\\repos\\da_chuaapi\\lab_03\\areas\\admin\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\areas\\admin\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\fpt shop\\source\\repos\\da_chuaapi\\lab_03\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\fpt shop\\source\\repos\\da_chuaapi\\lab_03\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\fpt shop\\source\\repos\\da_chuaapi\\lab_03\\views\\product\\display1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\views\\product\\display1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\fpt shop\\source\\repos\\da_chuaapi\\lab_03\\repository\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\repository\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\h\u01B0\u01A1ng\\onedrive\\codeth_lap3share\\thwebchuaapi\\thweb\\lab_03\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\fpt shop\\source\\repos\\da_chuaapi\\lab_03\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\h\u01B0\u01A1ng\\onedrive\\codeth_lap3share\\thwebchuaapi\\thweb\\lab_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +90,268 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240412094150_ExtendIdentityUser.cs",
+              "DocumentMoniker": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Migrations\\20240412094150_ExtendIdentityUser.cs",
+              "RelativeDocumentMoniker": "Lab_03\\Migrations\\20240412094150_ExtendIdentityUser.cs",
+              "ToolTip": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Migrations\\20240412094150_ExtendIdentityUser.cs",
+              "RelativeToolTip": "Lab_03\\Migrations\\20240412094150_ExtendIdentityUser.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:41:50.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Views\\OrderList\\Details.cshtml",
+              "RelativeDocumentMoniker": "Lab_03\\Views\\OrderList\\Details.cshtml",
+              "ToolTip": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Views\\OrderList\\Details.cshtml",
+              "RelativeToolTip": "Lab_03\\Views\\OrderList\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T09:41:01.564Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Lab_03\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Models\\Order.cs",
+              "RelativeToolTip": "Lab_03\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:38:59.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Lab_03\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Lab_03\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:35:17.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Lab_03\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Lab_03\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:34:22.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Lab_03\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Lab_03\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAYwGwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:18:12.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ProductList.cshtml",
+              "DocumentMoniker": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Views\\Shared\\_ProductList.cshtml",
+              "RelativeDocumentMoniker": "Lab_03\\Views\\Shared\\_ProductList.cshtml",
+              "ToolTip": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Views\\Shared\\_ProductList.cshtml",
+              "RelativeToolTip": "Lab_03\\Views\\Shared\\_ProductList.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T08:57:28.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Navbar.cs",
+              "DocumentMoniker": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Models\\Navbar.cs",
+              "RelativeDocumentMoniker": "Lab_03\\Models\\Navbar.cs",
+              "ToolTip": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Models\\Navbar.cs",
+              "RelativeToolTip": "Lab_03\\Models\\Navbar.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:47:15.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Lab_03\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Lab_03\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T07:44:48.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Views\\Shared\\Components\\Navbar\\Default.cshtml",
+              "RelativeDocumentMoniker": "Lab_03\\Views\\Shared\\Components\\Navbar\\Default.cshtml",
+              "ToolTip": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Views\\Shared\\Components\\Navbar\\Default.cshtml",
+              "RelativeToolTip": "Lab_03\\Views\\Shared\\Components\\Navbar\\Default.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T07:35:37.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "Lab_03\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "Lab_03\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T05:36:34.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Areas\\Admin\\Views\\Product\\Add.cshtml",
+              "RelativeDocumentMoniker": "Lab_03\\Areas\\Admin\\Views\\Product\\Add.cshtml",
+              "ToolTip": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Areas\\Admin\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "Lab_03\\Areas\\Admin\\Views\\Product\\Add.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T05:35:47.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Lab_03\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Lab_03\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T05:31:36.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab_03\\appsettings.json",
+              "ToolTip": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\appsettings.json",
+              "RelativeToolTip": "Lab_03\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-12T05:26:59.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "SearchResult.cshtml",
-              "DocumentMoniker": "C:\\Users\\H\u01B0\u01A1ng\\OneDrive\\CodeTH_Lap3Share\\THWEBChuaAPI\\THWEB\\Lab_03\\Views\\Product\\SearchResult.cshtml",
+              "DocumentMoniker": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Views\\Product\\SearchResult.cshtml",
               "RelativeDocumentMoniker": "Lab_03\\Views\\Product\\SearchResult.cshtml",
-              "ToolTip": "C:\\Users\\H\u01B0\u01A1ng\\OneDrive\\CodeTH_Lap3Share\\THWEBChuaAPI\\THWEB\\Lab_03\\Views\\Product\\SearchResult.cshtml",
+              "ToolTip": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Views\\Product\\SearchResult.cshtml",
               "RelativeToolTip": "Lab_03\\Views\\Product\\SearchResult.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAyAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwC8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-12T04:21:10.005Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\H\u01B0\u01A1ng\\OneDrive\\CodeTH_Lap3Share\\THWEBChuaAPI\\THWEB\\Lab_03\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Lab_03\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\H\u01B0\u01A1ng\\OneDrive\\CodeTH_Lap3Share\\THWEBChuaAPI\\THWEB\\Lab_03\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Lab_03\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T04:16:50.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "_Layout2.cshtml",
-              "DocumentMoniker": "C:\\Users\\H\u01B0\u01A1ng\\OneDrive\\CodeTH_Lap3Share\\THWEBChuaAPI\\THWEB\\Lab_03\\Views\\Shared\\_Layout2.cshtml",
+              "DocumentMoniker": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Views\\Shared\\_Layout2.cshtml",
               "RelativeDocumentMoniker": "Lab_03\\Views\\Shared\\_Layout2.cshtml",
-              "ToolTip": "C:\\Users\\H\u01B0\u01A1ng\\OneDrive\\CodeTH_Lap3Share\\THWEBChuaAPI\\THWEB\\Lab_03\\Views\\Shared\\_Layout2.cshtml",
+              "ToolTip": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Views\\Shared\\_Layout2.cshtml",
               "RelativeToolTip": "Lab_03\\Views\\Shared\\_Layout2.cshtml",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAADQAAAAdAAAA",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAYwHsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-12T04:05:23.504Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 17,
               "Title": "Display1.cshtml",
-              "DocumentMoniker": "C:\\Users\\H\u01B0\u01A1ng\\OneDrive\\CodeTH_Lap3Share\\THWEBChuaAPI\\THWEB\\Lab_03\\Views\\Product\\Display1.cshtml",
+              "DocumentMoniker": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Views\\Product\\Display1.cshtml",
               "RelativeDocumentMoniker": "Lab_03\\Views\\Product\\Display1.cshtml",
-              "ToolTip": "C:\\Users\\H\u01B0\u01A1ng\\OneDrive\\CodeTH_Lap3Share\\THWEBChuaAPI\\THWEB\\Lab_03\\Views\\Product\\Display1.cshtml",
+              "ToolTip": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Views\\Product\\Display1.cshtml",
               "RelativeToolTip": "Lab_03\\Views\\Product\\Display1.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-12T04:04:05.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-12T04:04:05.934Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 18,
               "Title": "EFProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\H\u01B0\u01A1ng\\OneDrive\\CodeTH_Lap3Share\\THWEBChuaAPI\\THWEB\\Lab_03\\Repository\\EFProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Repository\\EFProductRepository.cs",
               "RelativeDocumentMoniker": "Lab_03\\Repository\\EFProductRepository.cs",
-              "ToolTip": "C:\\Users\\H\u01B0\u01A1ng\\OneDrive\\CodeTH_Lap3Share\\THWEBChuaAPI\\THWEB\\Lab_03\\Repository\\EFProductRepository.cs",
+              "ToolTip": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Repository\\EFProductRepository.cs",
               "RelativeToolTip": "Lab_03\\Repository\\EFProductRepository.cs",
               "ViewState": "AQIAACUAAAAAAAAAAIA8wDIAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T16:28:58.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T16:28:58.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Lab_03\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "Lab_03\\Repository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T16:27:46.294Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\H\u01B0\u01A1ng\\OneDrive\\CodeTH_Lap3Share\\THWEBChuaAPI\\THWEB\\Lab_03\\Repository\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Lab_03\\Repository\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\H\u01B0\u01A1ng\\OneDrive\\CodeTH_Lap3Share\\THWEBChuaAPI\\THWEB\\Lab_03\\Repository\\IProductRepository.cs",
-              "RelativeToolTip": "Lab_03\\Repository\\IProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T16:27:46.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\H\u01B0\u01A1ng\\OneDrive\\CodeTH_Lap3Share\\THWEBChuaAPI\\THWEB\\Lab_03\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Program.cs",
               "RelativeDocumentMoniker": "Lab_03\\Program.cs",
-              "ToolTip": "C:\\Users\\H\u01B0\u01A1ng\\OneDrive\\CodeTH_Lap3Share\\THWEBChuaAPI\\THWEB\\Lab_03\\Program.cs",
+              "ToolTip": "C:\\Users\\FPT SHOP\\source\\repos\\DA_ChuaAPI\\Lab_03\\Program.cs",
               "RelativeToolTip": "Lab_03\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T13:43:38.56Z"
+              "WhenOpened": "2024-04-11T13:43:38.56Z",
+              "EditorCaption": ""
             }
           ]
         }

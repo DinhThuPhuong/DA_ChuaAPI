@@ -5,7 +5,7 @@
 }
 @model IEnumerable<Lab_03.Models.Category>
 
-<div class="dropdown">
+@* <div class="dropdown">
     <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
         Categories
     </button>
@@ -16,5 +16,16 @@
             <li><a class="dropdown-item" href="#">@category.Name</a></li>
         }
 
+    </ul>
+</div> *@
+<div class="dropdown">
+    <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+        Categories
+    </button>
+    <ul class="dropdown-menu">
+        @foreach (var category in Model)
+        {
+            <li><a class="dropdown-item" href="@Url.Action("FilterByCategory", "Product", new { categoryId = category.Id })">@category.Name</a></li>
+        }
     </ul>
 </div>
