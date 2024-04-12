@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\H\u01B0\u01A1ng\\OneDrive\\CodeTH_Lap3Share\\THWEBChuaAPI\\THWEB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\h\u01B0\u01A1ng\\onedrive\\codeth_lap3share\\thwebchuaapi\\thweb\\lab_03\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\h\u01B0\u01A1ng\\onedrive\\codeth_lap3share\\thwebchuaapi\\thweb\\lab_03\\views\\product\\searchresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\views\\product\\searchresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\h\u01B0\u01A1ng\\onedrive\\codeth_lap3share\\thwebchuaapi\\thweb\\lab_03\\views\\product\\display1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\views\\product\\display1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\h\u01B0\u01A1ng\\onedrive\\codeth_lap3share\\thwebchuaapi\\thweb\\lab_03\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\h\u01B0\u01A1ng\\onedrive\\codeth_lap3share\\thwebchuaapi\\thweb\\lab_03\\repository\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\repository\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\h\u01B0\u01A1ng\\onedrive\\codeth_lap3share\\thwebchuaapi\\thweb\\lab_03\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|c:\\users\\h\u01B0\u01A1ng\\onedrive\\codeth_lap3share\\thwebchuaapi\\thweb\\lab_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C62C804-CEA0-46DC-97C6-64A42F98863C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchResult.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u01B0\u01A1ng\\OneDrive\\CodeTH_Lap3Share\\THWEBChuaAPI\\THWEB\\Lab_03\\Views\\Product\\SearchResult.cshtml",
+              "RelativeDocumentMoniker": "Lab_03\\Views\\Product\\SearchResult.cshtml",
+              "ToolTip": "C:\\Users\\H\u01B0\u01A1ng\\OneDrive\\CodeTH_Lap3Share\\THWEBChuaAPI\\THWEB\\Lab_03\\Views\\Product\\SearchResult.cshtml",
+              "RelativeToolTip": "Lab_03\\Views\\Product\\SearchResult.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T04:21:10.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\H\u01B0\u01A1ng\\OneDrive\\CodeTH_Lap3Share\\THWEBChuaAPI\\THWEB\\Lab_03\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Lab_03\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\H\u01B0\u01A1ng\\OneDrive\\CodeTH_Lap3Share\\THWEBChuaAPI\\THWEB\\Lab_03\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Lab_03\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T04:16:50.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout2.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u01B0\u01A1ng\\OneDrive\\CodeTH_Lap3Share\\THWEBChuaAPI\\THWEB\\Lab_03\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeDocumentMoniker": "Lab_03\\Views\\Shared\\_Layout2.cshtml",
+              "ToolTip": "C:\\Users\\H\u01B0\u01A1ng\\OneDrive\\CodeTH_Lap3Share\\THWEBChuaAPI\\THWEB\\Lab_03\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeToolTip": "Lab_03\\Views\\Shared\\_Layout2.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAADQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T04:05:23.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Display1.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u01B0\u01A1ng\\OneDrive\\CodeTH_Lap3Share\\THWEBChuaAPI\\THWEB\\Lab_03\\Views\\Product\\Display1.cshtml",
+              "RelativeDocumentMoniker": "Lab_03\\Views\\Product\\Display1.cshtml",
+              "ToolTip": "C:\\Users\\H\u01B0\u01A1ng\\OneDrive\\CodeTH_Lap3Share\\THWEBChuaAPI\\THWEB\\Lab_03\\Views\\Product\\Display1.cshtml",
+              "RelativeToolTip": "Lab_03\\Views\\Product\\Display1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T04:04:05.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EFProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\H\u01B0\u01A1ng\\OneDrive\\CodeTH_Lap3Share\\THWEBChuaAPI\\THWEB\\Lab_03\\Repository\\EFProductRepository.cs",
+              "RelativeDocumentMoniker": "Lab_03\\Repository\\EFProductRepository.cs",
+              "ToolTip": "C:\\Users\\H\u01B0\u01A1ng\\OneDrive\\CodeTH_Lap3Share\\THWEBChuaAPI\\THWEB\\Lab_03\\Repository\\EFProductRepository.cs",
+              "RelativeToolTip": "Lab_03\\Repository\\EFProductRepository.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAIA8wDIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T16:28:58.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\H\u01B0\u01A1ng\\OneDrive\\CodeTH_Lap3Share\\THWEBChuaAPI\\THWEB\\Lab_03\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Lab_03\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\H\u01B0\u01A1ng\\OneDrive\\CodeTH_Lap3Share\\THWEBChuaAPI\\THWEB\\Lab_03\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "Lab_03\\Repository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T16:27:46.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\H\u01B0\u01A1ng\\OneDrive\\CodeTH_Lap3Share\\THWEBChuaAPI\\THWEB\\Lab_03\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_03\\Program.cs",
+              "ToolTip": "C:\\Users\\H\u01B0\u01A1ng\\OneDrive\\CodeTH_Lap3Share\\THWEBChuaAPI\\THWEB\\Lab_03\\Program.cs",
+              "RelativeToolTip": "Lab_03\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T13:43:38.56Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
